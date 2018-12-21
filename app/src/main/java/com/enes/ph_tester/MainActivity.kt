@@ -16,8 +16,6 @@ class MainActivity : AppCompatActivity() {
         }else{
             Log.i("OpenCV", "successfully built !")
             Log.i("OpenCV","tes")
-
-
         }
     }
 }
